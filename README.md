@@ -6,3 +6,13 @@
 다. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;따라서 본 프로젝트에서는 스마트 팩토리에서 발생할 수 있는 AGV 데드락을 탐지하기 위해 CNN-LSTM기반 AGV 데드락 탐지 시스템을 구현하였다. 실제 스마트팩토리 환경에서 AGV 주행 과정에서 이미지 시퀀스 데이터를 추출하여 CNN-LSTM을 학습한 뒤 AGV의 데드락 여부를 판단하였으며 안전한 운행을 보장하는 AI모델을 구성하였다.
+
+### 1-2. 프로젝트 목표 및 주요 기능
+### 최종 목표 : 데드락이 발생한 AGV를 탐지하는 AI 모델 개발
+
+|  | tools |
+|-------------|-------|
+| 개발 언어   |![Python](https://img.shields.io/badge/Python-3.8.4-3776AB?logo=python&logoColor=white)|
+| 사용 프레임워크| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| 환경      | AGV 연구소|
+| 개발 환경      |Windows 11  |
