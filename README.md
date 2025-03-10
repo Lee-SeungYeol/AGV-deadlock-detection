@@ -49,7 +49,10 @@
 
 ## 3-1. 모델 구조도
  본 프로젝트에서는 데드락을 탐지하기위해 CNN과 LSTM을 결합하여 모델을 구성하였음
+ 
  ![image](https://github.com/user-attachments/assets/ae007ef3-630a-491b-83b9-2e8db62d73c1)
+ 
 비디오 데이터로부터 추출한 이미지 시퀀스 데이터는 현재 시간 t로부터 n초 뒤의 이미지로 구성되어 있으며 이 이미지 시퀀스 데이터를 CNN 네트워크를 통해 비디오 프레임에서 특징 벡터 시퀀스를 추출한다. 특징 벡터 시퀀스를 추출한 뒤 LSTM에 입력하여 시간에 따른 AGV의 동선을 분석한 뒤 데드락을 탐지.
+
 ![image](https://github.com/user-attachments/assets/12edf3f9-6d82-41cf-af18-a2763cd708b8)
 
