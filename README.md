@@ -16,3 +16,8 @@
 | 사용 프레임워크| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 | 환경      | AGV 연구소|
 | 개발 환경      |Windows 11  |
+
+## 3. 시스템 구조도
+&nbsp;&nbsp;&nbsp;&nbsp;AGV 연구소에서 카메라를 설치한뒤 2대의 AGV를 주행. 교차로 상태를 가정하여 데드락 상황과 정상 주행 상황을 제현
+
+![image](https://github.com/user-attachments/assets/5fb13937-5c66-40ad-9d69-c9ccb6b12972)
