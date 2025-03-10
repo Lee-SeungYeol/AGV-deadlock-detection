@@ -56,3 +56,8 @@
 
 ![image](https://github.com/user-attachments/assets/12edf3f9-6d82-41cf-af18-a2763cd708b8)
 
+## 4. 데드락 탐지 여부 확인
+CNN-LSTM과 CNN-RNN 두가지 모델을 평가.
+구현한 모델을 AGV연구소 AI서버에 탑재하여 성능을 평
+![image](https://github.com/user-attachments/assets/ed75a9d7-eaae-437a-bac9-b71070805595)
+
