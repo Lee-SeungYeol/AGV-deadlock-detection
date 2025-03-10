@@ -21,6 +21,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;AGV 연구소에서 카메라를 설치한뒤 2대의 AGV를 주행. 교차로 상태를 가정하여 데드락 상황과 정상 주행 상황을 제현
 
 ![image](https://github.com/user-attachments/assets/5fb13937-5c66-40ad-9d69-c9ccb6b12972)
-(데드락 유형)
 
+<center> 데드락 유형 </center> 
 &nbsp;&nbsp;&nbsp;&nbsp;입력되는 3개의 이미지는 Backbone modules(resnet18, mobilenet, vgg16)를 통해 처리되고 command는 speed modules를 통해 처리된후 각 계산 결과를 통합하여 steering angle과 throttle를 처리
