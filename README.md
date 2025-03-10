@@ -61,3 +61,8 @@ CNN-LSTM과 CNN-RNN 두가지 모델을 평가.
 구현한 모델을 AGV연구소 AI서버에 탑재하여 성능을 평
 ![image](https://github.com/user-attachments/assets/ed75a9d7-eaae-437a-bac9-b71070805595)
 
+![image](https://github.com/user-attachments/assets/9aa0d917-a14e-4bcd-a09a-c3b137c44e27) ![image](https://github.com/user-attachments/assets/6261ca3f-f22e-49eb-acfa-f6edb78c3399) ![image](https://github.com/user-attachments/assets/228b7d68-fc59-4f16-bf03-8f0b47c97d39)
+
+
+
+
